@@ -1,0 +1,48 @@
+body{
+    background: black;
+}
+.header {
+    background: grey;
+    color: aqua;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-header{
+    background: rgb(16, 121, 86);
+    color: whitesmoke;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.avatar {
+    background: rgb(104, 103, 103);
+    height: 200px;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 100px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto
+
+}
+.we{
+   text-align: center;
+   color: green;
+    font-size: 100px;
+}
+
+html,body{
+    background: url(https://i.pinimg.com/originals/4c/2d/e5/4c2de5df7ec88fb93d5f89cd68600ddd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+bedawarna{
+    color: red;
+}
